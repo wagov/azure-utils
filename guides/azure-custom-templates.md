@@ -4,8 +4,7 @@
 
 The Azure portal can be used to perform some basic template deployment. 
 
-> [!IMPORTANT]
-> This is a generic deployment guide. Some deploments may require a different deployment. Follow the guides associated to that deployment if required.
+> **_NOTE:_**  This is a generic deployment guide. Some deploments may require a different deployment. Follow the guides associated to that deployment if required.
 
 
 1. From the Azure portal menu, in the search box, type **deploy**, and then select **Deploy a custom template**.
