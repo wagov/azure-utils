@@ -8,6 +8,6 @@ Start with the microsoft templates to [detect threats out-of-the-box](https://do
 ### DNS Events
 Some firewalls may regularly query malicious domains in their block lists as part of their maintenance activities for firewall rules. These domains and firewalls should be added to suppression rules. An example of how to create a rule that would block appropriate entities is below:
 
-![DNS Supression rule example](/screenshots/Sentinel Guides/DNS Supression.PNG)
+![DNS Supression rule example](/screenshots/Sentinel%20Guides/DNS%20Supression.PNG)
 
 Note that you should review supression rules roughly every 6 months to ensure that they are still appropriate for your environment.
