@@ -40,5 +40,5 @@ A simple bash script to authenticate against a exisiting A records in Azure DNS 
 ## Deployment
 
 1. Once ready to deploy script, [connect to the Azure VM](https://docs.microsoft.com/en-us/azure/virtual-machines/ssh-keys-portal#connect-to-the-vm)
-1. Run the following command in the VM terminal ```sudo git clone https://raw.githubusercontent.com/wagov/azure-utils/main/tools/DNS%20Zone%20-%20Managed%20Indentity/azure_dns_vm_cert.sh | chmod +x azure_dns_vm_cert.sh | ./azure_dns_vm_cert.sh```
+1. Run the following command in the VM terminal ```wget https://raw.githubusercontent.com/wagov/azure-utils/main/tools/DNS%20Zone%20-%20Managed%20Indentity/azure_dns_vm_cert.sh | chmod +x azure_dns_vm_cert.sh | ./azure_dns_vm_cert.sh```
 1. Follow the prompts to fill in the required Azure credentials to finalise Certbot deployment.
