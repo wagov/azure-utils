@@ -34,7 +34,7 @@ A simple bash script to authenticate against a exisiting A records in Azure DNS 
 1. Naviuagte to the **IAM** blade, select **+ Add**, then **add new role assignment**.
 1. Select role of **DNS Zone Contributor**.
 1. In the **Assign access to**, select **Managed Indentity**
-1. Click **+ Sleect Members**, type the Azure VM managed Indentity (VM Name), click **Select**.
+1. Click **+ Select Members**, type the Azure VM managed Indentity (VM Name), click **Select**.
 1. Finalise by Clicking **Review + assign**.
 
 ## Deployment
